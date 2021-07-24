@@ -26,3 +26,11 @@
   justify-content: center;
   display: flex;
 }
+.score_image {
+  margin: auto;
+  width: 60%;
+
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}

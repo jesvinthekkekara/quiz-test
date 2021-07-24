@@ -1,0 +1,30 @@
+.questionBox {
+  justify-content: center;
+  align-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 100px;
+}
+.answerBtn {
+  border-radius: 4px;
+  justify-content: space-between;
+  height: 100px;
+  width: 170px;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: darkgray;
+  background: #f0c14b;
+}
+.questionOption {
+  align-items: center;
+  width: 100%;
+  flex-direction: row;
+
+  justify-content: space-evenly;
+  padding: 50px;
+  display: flex;
+}
+.question > h3 {
+  font-size: 22px;
+  font-weight: 800px;
+}
